@@ -1,2 +1,32 @@
 #!/bin/bash 
+<<<<<<< HEAD
 echo "The School is open!"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d88d6e09cf59259991a1bf759d431561f6d7eeb0
+=======
+>>>>>>> d88d6e09cf59259991a1bf759d431561f6d7eeb0
+=======
+>>>>>>> d88d6e09cf59259991a1bf759d431561f6d7eeb0
+echo "School"
+=======
+echo "The School is open!"
+>>>>>>> update_script
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+echo "The School is open!"
+>>>>>>> update_script
+=======
+>>>>>>> d88d6e09cf59259991a1bf759d431561f6d7eeb0
+=======
+>>>>>>> d88d6e09cf59259991a1bf759d431561f6d7eeb0
+=======
+>>>>>>> d88d6e09cf59259991a1bf759d431561f6d7eeb0
+>>>>>>> master
